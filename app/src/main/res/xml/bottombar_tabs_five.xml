@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/one"
+        icon="@drawable/ic_recents"
+        title="1" />
+    <tab
+        id="@+id/two"
+        icon="@drawable/ic_favorites"
+        title="2" />
+    <tab
+        id="@+id/three"
+        icon="@drawable/ic_nearby"
+        title="3" />
+    <tab
+        id="@+id/four"
+        icon="@drawable/ic_friends"
+        title="4" />
+    <tab
+        id="@+id/five"
+        icon="@drawable/ic_restaurants"
+        title="5" />
+</tabs>
